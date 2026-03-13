@@ -1,5 +1,4 @@
-# Podatkovna povezanost i digitalna infrastruktura – XML programiranje
+# WEB programiranje
 
-Repozitorij s laboratorijskim vježbama iz kolegija **Podatkovna povezanost i digitalna infrastruktura**.  
-Fokus laboratorija je na **XML programiranju**, strukturi podataka i obradi XML dokumenata.
-
+Repozitorij s laboratorijskim vježbama iz kolegija WEB programiranje.  
+Fokus laboratorija je na projektiranju i izradi web aplikacija, razvoju client-side i server-side rješenja te korištenju različitih alata za izradu funkcionalnih web stranica i web aplikacija.
